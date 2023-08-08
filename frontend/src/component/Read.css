@@ -1,0 +1,61 @@
+.content {
+    margin-top: 8px;
+    background-color: rgba(232, 146, 18, 0.146);
+    width: 100%;
+    display: flex;
+}
+
+.img {
+    margin: 8px;
+    width: 80%;
+}
+
+.img img {
+    width: 150px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.book-content {
+    width: 100%;
+}
+
+.book-content h2 {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 5px;
+}
+
+.book-content p {
+    color: black;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 5px;
+}
+.button {
+    display: block;
+    width: 50px;
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #005ea3;
+  }
+
+  
+  
+  
