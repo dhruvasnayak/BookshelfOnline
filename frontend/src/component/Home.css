@@ -1,0 +1,9 @@
+.home-container{
+    background-image: url(https://thumbs.dreamstime.com/z/open-book-stack-books-open-book-stack-books-reading-learning-education-concept-panorama-good-copy-space-120469473.jpg?w=2048);
+    width: 100%;
+    height:490px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}

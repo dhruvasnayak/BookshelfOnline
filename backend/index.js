@@ -7,7 +7,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 const firebaseConfig = {
- 
+  
 };
 
 firebase.initializeApp(firebaseConfig);
